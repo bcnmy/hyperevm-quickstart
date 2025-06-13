@@ -14,8 +14,8 @@ This repository demonstrates how to use the [Biconomy Modular Execution Environm
 1. **Clone the repository:**
 
    ```sh
-   git clone <this-repo-url>
-   cd <repo-directory>
+   git clone https://github.com/bcnmy/hyperevm-quickstart.git
+   cd hyperevm-quickstart
    ```
 
 2. **Install dependencies:**
